@@ -1,0 +1,59 @@
+
+.site-sidebar .logo {
+    /*height: 150px;*/
+    max-width: 50%;
+    height: auto;
+
+}
+
+.portal-header-navbar .logo {
+    height: 90px;
+}
+
+.portal-contents {
+	 display: none;
+}
+
+.featured-content-label {
+	display: none;
+}
+
+.cat-panel-1:before{ /*agreements platform tile*/
+    content: "\f040"; 
+}
+
+.cat-panel-2:before{ /*authorizations platform tile*/
+    content: "\f09d"; 
+}
+
+.cat-panel-3:before{
+    content: "\f233"; 
+}
+
+.cat-panel-4:before{
+    content: "\f121"; 
+}
+
+.cat-panel-5:before{
+    content: "\f085"; 
+}
+
+.td p {
+	text-align: center;
+}
+
+.dropdown-toggle {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
