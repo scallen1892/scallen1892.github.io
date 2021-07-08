@@ -9,24 +9,24 @@
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9036/60e5f0beb386d.css"/>
-  <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9036/5f061cb17a166.png"/>
-  <param name="portal.background.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9036/5e810e878aef9.jpg"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-60e713d2d96a86.77122325/8777-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
-  <param name="company.name" select="Sertifi"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e61b046a0a1.css"/>
+  <param name="portal.logo.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e7179b5d283.png"/>
+  <param name="portal.background.filename" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e7192123d72.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sertifi/production-60e7356cbee1d8.14846240/8777-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg"/>
+  <param name="company.name" select=""/>
   <param name="copyright.year" select=""/>
-  <param name="copyright" select=" &#xA9; 2021 Sertifi "/>
-  <param name="sticky.header" select="1"/>
-  <param name="full.width.header" select="1"/>
-  <param name="cookie.consent" select="info"/>
-  <param name="privacypolicy" select="https://corp.sertifi.com/privacy-policy/"/>
-  <param name="privacypolicy" select="https://corp.sertifi.com/privacy-policy/"/>
-  <param name="google.analytics" select="UA-170491704-1"/>
+  <param name="copyright" select=" &#xA9; 2021  "/>
+  <param name="sticky.header" select="0"/>
+  <param name="full.width.header" select="0"/>
+  <param name="cookie.consent" select="0"/>
+  <param name="privacypolicy" select="/privacy"/>
+  <param name="privacypolicy" select="/privacy"/>
+  <param name="google.analytics" select=""/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
-  <param name="layout.custom.script" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9036/60a572812de46.js"/>
-  <param name="create.sitemap" select="1"/>
-  <param name="destination.domain" select="http://supportcenter.sertifi.com"/>
+  <param name="layout.custom.script" select="/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e61b3dcc0b7.js"/>
+  <param name="create.sitemap" select="0"/>
+  <param name="destination.domain" select=""/>
   <param name="submit.feedback" select="0"/>
   <param name="voting.panel" select="0"/>
   <param name="feedback.email" select=""/>
@@ -36,7 +36,7 @@
   <param name="no" select="No"/>
   <param name="custom.meta.tags" select=""/>
   <param name="last.modified.text" select="Last modified: "/>
-  <param name="categories.shown" select="1000"/>
+  <param name="categories.shown" select="4"/>
   <param name="single.topic.permalink" select=""/>
   <param name="logo.link" select=""/>
   <param name="feedback.toggle" select="no-button"/>
@@ -47,15 +47,15 @@
   <param name="elastic.site.search.only.index.main.content" select="0"/>
   <param name="other.custom.search" select="0"/>
   <param name="use.page.toc" select="1"/>
-  <param name="swagger.embed" select="1"/>
+  <param name="swagger.embed" select="0"/>
   <param name="use.separate.relationship.toc" select="1"/>
   <param name="in.this.section.string" select="In this section"/>
   <param name="seealso.string" select="See also"/>
-  <param name="use.section.toc" select="none"/>
+  <param name="use.section.toc" select="before"/>
   <param name="taxonomies.relationship" select=""/>
-  <param name="use.top.nav" select="1"/>
+  <param name="use.top.nav" select="0"/>
   <param name="external.top.nav.links" select=""/>
-  <param name="top.nav.section.depth" select="3"/>
+  <param name="top.nav.section.depth" select="2"/>
   <param name="gentext.for.top.nav" select="0"/>
   <param name="version.dropdown.values" select=""/>
   <param name="enter.key.search.behaviour" select="select"/>
@@ -69,7 +69,7 @@
   <param name="create.search.page.for.algolia" select="0"/>
   <param name="add.canonical.url" select="0"/>
   <param name="custom.favicon.path" select=""/>
-  <param name="initial.heading.level" select="chunk"/>
+  <param name="initial.heading.level" select="default"/>
   <param name="add.rel.noopener" select="1"/>
   <param name="scripts.in.body" select="0"/>
   <param name="external.logo.link.in.same.tab" select="0"/>
@@ -90,9 +90,9 @@
   <param name="slides.revealjs.theme.custom" select=""/>
   <param name="slides.revealjs.background.image.opacity" select="1"/>
   <param name="slides.revealjs.default.background.image" select=""/>
-  <param name="slides.revealjs.default.background.image.out" select="/paligo/tmp/sertifi/production-60e713d2d96a86.77122325/8777-Sertifi_Support_Site-html5/out/css/image/default_slide_background.png"/>
+  <param name="slides.revealjs.default.background.image.out" select="/paligo/tmp/sertifi/production-60e7356cbee1d8.14846240/8777-Sertifi_Support_Site-html5/out/css/image/default_slide_background.png"/>
   <param name="slides.revealjs.logo" select=""/>
-  <param name="slides.revealjs.logo.out" select="/paligo/tmp/sertifi/production-60e713d2d96a86.77122325/8777-Sertifi_Support_Site-html5/out/css/image/logo-light.png"/>
+  <param name="slides.revealjs.logo.out" select="/paligo/tmp/sertifi/production-60e7356cbee1d8.14846240/8777-Sertifi_Support_Site-html5/out/css/image/logo-light.png"/>
   <param name="slides.revealjs.logo.alt" select=""/>
-  <param name="slides.revealjs.logo.alt.out" select="/paligo/tmp/sertifi/production-60e713d2d96a86.77122325/8777-Sertifi_Support_Site-html5/out/css/image/logo-dark.png"/>
+  <param name="slides.revealjs.logo.alt.out" select="/paligo/tmp/sertifi/production-60e7356cbee1d8.14846240/8777-Sertifi_Support_Site-html5/out/css/image/logo-dark.png"/>
 </params>
