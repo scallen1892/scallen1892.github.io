@@ -1,570 +1,604 @@
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] ############################################################
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] # Output Factory initiated (html5)
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] # Building output for: Sertifi Support Site
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] # URL /document/edit/8777
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] # User: Sam Allen
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] # Time: Fri, 09 Jul 2021 20:54:42 +0200
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] # Server: bregenz
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] ############################################################
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Group: custom
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Type: html5
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Transformation: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] File found: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] ############################################################
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Building output for: html5
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Using stylesheet: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Parameters for this build: (array) []
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Environment variables for this build: (array) []
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Building output for languages: (array) ["en"]
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Building multilang: no
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] Building preview: no
-[09/Jul/2021 20:54:42 Europe/Stockholm] [Info] ############################################################
-[09/Jul/2021 20:54:43 Europe/Stockholm] [Info] Using build directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5
-[09/Jul/2021 20:54:43 Europe/Stockholm] [Info] -- Generating source files
-[09/Jul/2021 20:54:43 Europe/Stockholm] [Info] -- Propagating taxonomies: false
-[09/Jul/2021 20:54:45 Europe/Stockholm] [Info] -- Source files have been generated
-[09/Jul/2021 20:54:45 Europe/Stockholm] [Info] -- Publication has no unresolved dependencies.
-[09/Jul/2021 20:54:45 Europe/Stockholm] [Info] -- Generating source files complete.
-[09/Jul/2021 20:54:45 Europe/Stockholm] [Info] Localizing: publication-8777.xml
-[09/Jul/2021 20:54:45 Europe/Stockholm] [Info] Language: en
-[09/Jul/2021 20:54:46 Europe/Stockholm] [Info] Variable sets found: 0
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Inserting image links.
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found 43 image(s).
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'classic_file_maintenance.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'new_esign_portal.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'portal_no_payments.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'esign_config.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'esign_review_new.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'esig_finish.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'signing_experience_start.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'sig_start.png'
-[09/Jul/2021 20:54:47 Europe/Stockholm] [Info] Found image 'get_started.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'type_draw.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'sig_done.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'sig_end.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'sign_now.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'edit_signature_fields.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'shape.jpg'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'Screen_Shot_2021-04-01_at_12_30_25_PM.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'ellipsis_icon.jpg'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'view_folder_activity.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'view_folder_certificate.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'folder_status.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'normal_profile.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'completed_profile.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'Screen_Shot_2021-04-01_at_10_42_34_AM.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'delete_folder.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'participant_edit.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'Classic_AddaPayment.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'Classic_AddAuthorization.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'Classic_ViewPaymentReceipt.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'Classic_ClonePayment.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'Classic_ClonePaymentWindow.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'econf_email_settings.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'new_conf.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'no_new_conf.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'sort_econf.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'econf_info_button.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'blue_cards.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'verify_econf.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'home_opera_econf.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'opera_property_id.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'external_2.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'switch_interface.png'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'new_toggle_classic.jpg'
-[09/Jul/2021 20:54:48 Europe/Stockholm] [Info] Found image 'new_toggle_nextgen.jpg'
-[09/Jul/2021 20:54:49 Europe/Stockholm] [Info] Profiling parameters: (array) []
-[09/Jul/2021 20:54:49 Europe/Stockholm] [Info] Profiling customisation: /var/www/ccms/usr/sertifi/xsl/profile.xsl (not found)
-[09/Jul/2021 20:54:49 Europe/Stockholm] [Info] Transformation: publication-8777--en.org.xml -> publication-8777--en.xml [profile.xsl]
-[09/Jul/2021 20:54:49 Europe/Stockholm] [Info] Transformation: publication-8777--en.xml -> publication-8777--en.xml [internal-xref.xsl]
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Created copy: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60e89b7a6851e.xsl
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.page.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60e89b7a6851e.page.xsl
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.index.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60e89b7a6851e.index.xsl
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.toc.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60e89b7a6851e.toc.xsl
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.page.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60e89b7a6851e.page.xsl
-[09/Jul/2021 20:54:50 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.index.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60e89b7a6851e.index.xsl
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b776d674.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7771cb8.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b778e054.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b77a7c33.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b77abeab.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b77aff9c.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b77b3d80.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b77b7f33.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b77d91aa.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7802c40.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7818503.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7837dab.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b783c3fa.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b784094d.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7844abc.jpg
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78495ee.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b784daa1.jpg
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b785229c.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7857138.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b785b426.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b785ff6f.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7864420.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7867e9c.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b786c2df.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7870679.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b787479a.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78786c0.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b787c7b7.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7880a4a.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7884496.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78886cf.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b788c6c8.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b7890338.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78938a7.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78975e1.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b789ac67.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b789e90b.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78a2a02.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78a65da.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78aae28.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78aeb60.png
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78b2664.jpg
-[09/Jul/2021 20:54:51 Europe/Stockholm] [Info] Image copied: en/image/160e89b78b6608.jpg
-[09-Jul-2021 20:54:52 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, js/jquery-3/*, fonts/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: css/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'content-theme1.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'content-theme2.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'docbook.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'font-awesome.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'graphical-lists.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'mathml.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto.font.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'rwd-table.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'sm-core-css.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'sm-simple.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-api-responsive.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-api.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-common.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-index-page.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-modern-tables.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-print.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-responsive.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-revealjs-slides.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-single-page.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme0.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme1-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme1.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme2-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme2.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3b-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3b.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: css/image/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'caution.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-white.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'important.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'note.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal1-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'subheader-bg.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'warning.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: css/image/callouts/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '1.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '1.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '1.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '10.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '10.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '10.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '11.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '11.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '11.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '12.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '12.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '12.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '13.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '13.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '13.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '14.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '14.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '14.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '15.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '15.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '15.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '16.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '17.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '18.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '19.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '2.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '2.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '2.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '20.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '21.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '22.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '23.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '24.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '25.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '26.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '27.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '28.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '29.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '3.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '3.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '3.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '30.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '4.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '4.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '4.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '5.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '5.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '5.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '6.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '6.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '6.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '7.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '7.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '7.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '8.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '8.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '8.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '9.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '9.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '9.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: js/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'ajax-loading.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'anchorlinks.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'checklist.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'clipboard.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'cookie-consent.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'create-toc.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'csh.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fuse.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'hilitor.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-ajax.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-portal.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.fuse.search.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.event.move.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.mark.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.sticky.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'lunr-single-lang.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'lunr.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'materialize.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'mspace.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'purl.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'respond.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'responsive-tables.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'rwd-table.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'script-api.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'script-revealjs-slides.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'script.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'search.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'updateurl.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: js/jquery-3/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-3.4.1.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-3.5.1.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-3.6.0.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: fonts/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'FontAwesome.otf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: css/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'content-theme1.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'content-theme2.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'docbook.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'font-awesome.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'graphical-lists.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'mathml.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto.font.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'rwd-table.min.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'sm-core-css.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'sm-simple.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-api-responsive.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-api.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-common.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-index-page.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-modern-tables.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-print.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-responsive.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-revealjs-slides.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style-single-page.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'style.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme0.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme1-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme1.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme2-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme2.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3b-colors.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'theme3b.css'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: css/image/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'caution.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-white.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'corporate-logo.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'important.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'note.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal1-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'subheader-bg.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'warning.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: css/image/callouts/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '1.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '1.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '1.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '10.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '10.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '10.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '11.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '11.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '11.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '12.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '12.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '12.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '13.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '13.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '13.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '14.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '14.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '14.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '15.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '15.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '15.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '16.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '17.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '18.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '19.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '2.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '2.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '2.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '20.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '21.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '22.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '23.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '24.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '25.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '26.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '27.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '28.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '29.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '3.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '3.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '3.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '30.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '4.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '4.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '4.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '5.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '5.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '5.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '6.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '6.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '6.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '7.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '7.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '7.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '8.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '8.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '8.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '9.gif'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '9.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '9.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: js/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'ajax-loading.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'anchorlinks.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'bootstrap.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'checklist.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'clipboard.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'cookie-consent.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'create-toc.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'csh.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fuse.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'hilitor.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-ajax.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2-portal.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5-2.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'html5.fuse.search.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.event.move.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.mark.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'jquery.sticky.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'lunr-single-lang.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'lunr.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'materialize.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'mspace.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'purl.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'respond.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'responsive-tables.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'rwd-table.min.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'script-api.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'script-revealjs-slides.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'script.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'search.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'updateurl.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Filename: fonts/*
-[09-Jul-2021 20:54:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
-[09-Jul-2021 20:54:52 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'FontAwesome.otf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '/var/www/ccms/application/lib/docbook/xsl/html5/css/image/corporate-logo-blue-inverted.svg' to '/paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out/css/image/corporate-logo.svg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e7179b5d283.png' to '/paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out/css/image/portal-logo.png'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e7192123d72.jpg' to '/paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e61b3dcc0b7.js' to '/paligo/tmp/sertifi/production-60e89b714ed4f9.01583288/8777-Sertifi_Support_Site-html5/out/js/layout-custom-script.js'
-[09-Jul-2021 20:54:52 Europe/Stockholm] Post build HTML5
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: index-en.html -> toc-en.html [60e89b7a6851e.toc.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: getting-started.html -> getting-started.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: send-a-file.html -> send-a-file.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: review-and-sign.html -> review-and-sign.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: document-editor.html -> document-editor.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: document-library.html -> document-library.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: file-maintenance.html -> file-maintenance.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: next-gen-esignatures.html -> next-gen-esignatures.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: create-a-payment.html -> create-a-payment.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: payment-management.html -> payment-management.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: esignatures.html -> esignatures.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: epayments.html -> epayments.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: eauthorizations-account-setup.html -> eauthorizations-account-setup.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: get-started.html -> get-started.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: econfirmations-report.html -> econfirmations-report.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: integrations-and-upgrades.html -> integrations-and-upgrades.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: oracle-hospitality-opera-plugin.html -> oracle-hospitality-opera-plugin.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: helpful-tips.html -> helpful-tips.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: eauthorizations.html -> eauthorizations.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: econfirmations.html -> econfirmations.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: sertifi-sso.html -> sertifi-sso.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: super-admin.html -> super-admin.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: power-admin.html -> power-admin.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: admin.html -> admin.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: user.html -> user.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:53 Europe/Stockholm] [Info] Transformation: auditor.html -> auditor.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: roles.html -> roles.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: release-notes.html -> release-notes.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: toggle-interface.html -> toggle-interface.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: agreements-platform.html -> agreements-platform.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: authorizations-platform.html -> authorizations-platform.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: integrations.html -> integrations.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: sertifi-api.html -> sertifi-api.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: settings.html -> settings.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: index-en.html -> index-en.html [60e89b7a6851e.page.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Generating index page.
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] Transformation: index.manifest -> index.html [60e89b7a6851e.index.xsl]
-[09/Jul/2021 20:54:54 Europe/Stockholm] [Info] # Took 12.278146 seconds to render.
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] ############################################################
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] # Output Factory initiated (html5)
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] # Building output for: Sertifi Support Site
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] # URL /document/edit/8777
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] # User: Sam Allen
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] # Time: Wed, 14 Jul 2021 18:59:38 +0200
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] # Server: cannes
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] ############################################################
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Group: custom
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Type: html5
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Transformation: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] File found: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] ############################################################
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Building output for: html5
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Using stylesheet: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Parameters for this build: (array) []
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Environment variables for this build: (array) []
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Building output for languages: (array) ["en"]
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Building multilang: no
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Building preview: no
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] ############################################################
+[14/Jul/2021 18:59:38 Europe/Stockholm] [Info] Using build directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5
+[14/Jul/2021 18:59:39 Europe/Stockholm] [Info] -- Generating source files
+[14/Jul/2021 18:59:39 Europe/Stockholm] [Info] -- Propagating taxonomies: false
+[14/Jul/2021 18:59:40 Europe/Stockholm] [Info] -- Source files have been generated
+[14/Jul/2021 18:59:40 Europe/Stockholm] [Info] -- Publication has no unresolved dependencies.
+[14/Jul/2021 18:59:40 Europe/Stockholm] [Info] -- Generating source files complete.
+[14/Jul/2021 18:59:41 Europe/Stockholm] [Info] Localizing: publication-8777.xml
+[14/Jul/2021 18:59:41 Europe/Stockholm] [Info] Language: en
+[14/Jul/2021 18:59:41 Europe/Stockholm] [Warning] Resolving some links failed
+[14/Jul/2021 18:59:41 Europe/Stockholm] [Info] [/*/*[3]/*[3]/*[9]/*[3]/*/*] An outgoing link in <a href="/document/edit/9294">Send an eAuthorization</a> could not be resolved. The link points to <a href="/document/edit/9368">eAuthorization File Maintenance</a> which is not part of this publication.
+[14/Jul/2021 18:59:41 Europe/Stockholm] [Info] Variable sets found: 0
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Inserting image links.
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found 57 image(s).
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'classic_file_maintenance.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'new_esign_portal.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'portal_no_payments.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'esign_config.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'esign_review_new.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'esig_finish.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'signing_experience_start.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'sig_start.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'get_started.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'type_draw.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'sig_done.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'sig_end.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'sign_now.png'
+[14/Jul/2021 18:59:42 Europe/Stockholm] [Info] Found image 'edit_signature_fields.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'shape.jpg'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'Screen_Shot_2021-04-01_at_12_30_25_PM.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'ellipsis_icon.jpg'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'view_folder_activity.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'view_folder_certificate.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'folder_status.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'normal_profile.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'completed_profile.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'Screen_Shot_2021-04-01_at_10_42_34_AM.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'delete_folder.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'participant_edit.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'Classic_AddaPayment.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'Classic_AddAuthorization.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'Classic_ViewPaymentReceipt.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'Classic_ClonePayment.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'Classic_ClonePaymentWindow.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_CreateFile.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_CreateFilePhase2.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'man-silhouette-icon-30.jpg'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_eAuthSignerEmail.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_LanguageOptions.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_eAuthSignRoom.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_AuthForm.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_eAuthForm.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'risk_scale.jpeg'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'f_score.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_ViewMyFiles.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_ViewAllFiles.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_ExportFileList.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'SCR_ExportCurrentorAll.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'econf_email_settings.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'new_conf.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'no_new_conf.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'sort_econf.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'econf_info_button.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'blue_cards.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'verify_econf.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'home_opera_econf.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'opera_property_id.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'external_2.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'switch_interface.png'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'new_toggle_classic.jpg'
+[14/Jul/2021 18:59:43 Europe/Stockholm] [Info] Found image 'new_toggle_nextgen.jpg'
+[14/Jul/2021 18:59:44 Europe/Stockholm] [Info] Profiling parameters: (array) []
+[14/Jul/2021 18:59:44 Europe/Stockholm] [Info] Profiling customisation: /var/www/ccms/usr/sertifi/xsl/profile.xsl (not found)
+[14/Jul/2021 18:59:44 Europe/Stockholm] [Info] Transformation: publication-8777--en.org.xml -> publication-8777--en.xml [profile.xsl]
+[14/Jul/2021 18:59:44 Europe/Stockholm] [Info] Transformation: publication-8777--en.xml -> publication-8777--en.xml [internal-xref.xsl]
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Created copy: /var/www/ccms/usr/sertifi/xsl/custom/layout-9265.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60ef1801634a8.xsl
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.page.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60ef1801634a8.page.xsl
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5-2.index.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60ef1801634a8.index.xsl
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.toc.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60ef1801634a8.toc.xsl
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.page.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60ef1801634a8.page.xsl
+[14/Jul/2021 18:59:45 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.index.xsl -> /var/www/ccms/usr/sertifi/xsl/custom/60ef1801634a8.index.xsl
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fec3205.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fec6d4a.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fecabaf.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fece4f3.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fed1d6a.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fed57bf.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fed9518.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fedce9a.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fee07c3.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fee4678.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fee7f14.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17feeb90e.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17feef2ad.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17fef2f2c.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff026c8.jpg
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff05c79.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff092c2.jpg
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff0cc6e.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff100b4.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff1380e.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff17328.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff1ac50.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff1e4c9.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff21bda.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff25016.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff288d4.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff2c100.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff2f4ca.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff33101.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff3689e.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff3a3ce.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff3f1aa.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff43c43.jpg
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff47f45.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff4cd69.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff511c6.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff55b0e.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff5c020.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff60a6c.jpeg
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff64e89.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff69825.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff6ecd6.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff73fbd.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff78960.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff7d744.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff80f1e.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff84a76.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff884ec.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff8c0ab.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff90971.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff943e0.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff97fb8.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff9bb63.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ff9f42f.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ffa2d9e.png
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ffa6c6b.jpg
+[14/Jul/2021 18:59:46 Europe/Stockholm] [Info] Image copied: en/image/160ef17ffaaab6.jpg
+[14-Jul-2021 18:59:47 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, js/jquery-3/*, fonts/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: css/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'content-theme1.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'content-theme2.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'docbook.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'font-awesome.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'graphical-lists.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'mathml.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto.font.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'rwd-table.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'sm-core-css.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'sm-simple.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-api-responsive.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-api.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-common.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-index-page.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-modern-tables.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-print.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-responsive.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-revealjs-slides.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-single-page.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme0.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme1-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme1.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme2-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme2.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3b-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3b.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: css/image/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'caution.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-white.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'important.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'note.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal1-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'subheader-bg.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'warning.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: css/image/callouts/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '1.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '1.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '1.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '10.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '10.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '10.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '11.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '11.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '11.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '12.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '12.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '12.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '13.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '13.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '13.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '14.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '14.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '14.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '15.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '15.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '15.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '16.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '17.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '18.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '19.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '2.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '2.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '2.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '20.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '21.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '22.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '23.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '24.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '25.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '26.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '27.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '28.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '29.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '3.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '3.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '3.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '30.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '4.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '4.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '4.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '5.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '5.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '5.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '6.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '6.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '6.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '7.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '7.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '7.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '8.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '8.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '8.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '9.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '9.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '9.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: js/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'ajax-loading.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'anchorlinks.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'checklist.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'clipboard.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'cookie-consent.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'create-toc.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'csh.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fuse.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'hilitor.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-ajax.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-portal.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.fuse.search.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.event.move.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.mark.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.sticky.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'lunr-single-lang.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'lunr.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'materialize.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'mspace.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'purl.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'respond.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'responsive-tables.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'rwd-table.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'script-api.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'script-revealjs-slides.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'script.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'search.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'updateurl.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: js/jquery-3/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-3.4.1.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-3.5.1.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-3.6.0.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: fonts/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'FontAwesome.otf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: css/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'content-theme1.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'content-theme2.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'docbook.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'font-awesome.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'graphical-lists.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'mathml.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto.font.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'rwd-table.min.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'sm-core-css.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'sm-simple.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-api-responsive.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-api.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-common.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-index-page.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-modern-tables.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-print.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-responsive.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-revealjs-slides.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style-single-page.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'style.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme0.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme1-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme1.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme2-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme2.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3b-colors.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'theme3b.css'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: css/image/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'caution.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-white.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'corporate-logo.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'important.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'note.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal1-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'subheader-bg.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'warning.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: css/image/callouts/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '1.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '1.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '1.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '10.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '10.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '10.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '11.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '11.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '11.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '12.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '12.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '12.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '13.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '13.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '13.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '14.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '14.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '14.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '15.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '15.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '15.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '16.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '17.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '18.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '19.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '2.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '2.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '2.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '20.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '21.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '22.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '23.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '24.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '25.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '26.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '27.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '28.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '29.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '3.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '3.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '3.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '30.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '4.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '4.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '4.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '5.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '5.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '5.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '6.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '6.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '6.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '7.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '7.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '7.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '8.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '8.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '8.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '9.gif'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '9.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '9.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: js/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'ajax-loading.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'anchorlinks.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'bootstrap.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'checklist.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'clipboard.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'cookie-consent.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'create-toc.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'csh.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fuse.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'hilitor.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-ajax.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2-portal.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5-2.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'html5.fuse.search.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.event.move.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.mark.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'jquery.sticky.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'lunr-single-lang.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'lunr.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'materialize.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'mspace.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'purl.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'respond.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'responsive-tables.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'rwd-table.min.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'script-api.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'script-revealjs-slides.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'script.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'search.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'updateurl.js'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Filename: fonts/*
+[14-Jul-2021 18:59:47 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[14-Jul-2021 18:59:47 Europe/Stockholm] Target directory: /paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'FontAwesome.otf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-300.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file 'roboto-v20-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '/var/www/ccms/application/lib/docbook/xsl/html5/css/image/corporate-logo-blue-inverted.svg' to '/paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out/css/image/corporate-logo.svg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e7179b5d283.png' to '/paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out/css/image/portal-logo.png'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e7192123d72.jpg' to '/paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out/css/image/portal-bg.jpg'
+[14-Jul-2021 18:59:47 Europe/Stockholm] Copy file '/var/www/ccms/usr/sertifi/xsl/custom/assets/layout-9265/60e61b3dcc0b7.js' to '/paligo/tmp/sertifi/production-60ef17f9175b58.94956229/8777-Sertifi_Support_Site-html5/out/js/layout-custom-script.js'
+[14-Jul-2021 18:59:48 Europe/Stockholm] Post build HTML5
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: index-en.html -> toc-en.html [60ef1801634a8.toc.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: getting-started.html -> getting-started.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: send-a-file.html -> send-a-file.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: review-and-sign.html -> review-and-sign.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: document-editor.html -> document-editor.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: document-library.html -> document-library.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: file-maintenance.html -> file-maintenance.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: next-gen-esignatures.html -> next-gen-esignatures.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: create-a-payment.html -> create-a-payment.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: payment-management.html -> payment-management.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: esignatures.html -> esignatures.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: epayments.html -> epayments.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: send-an-eauthorization.html -> send-an-eauthorization.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: eauthorizations-account-setup.html -> eauthorizations-account-setup.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: eauthorization-signer-experience.html -> eauthorization-signer-experience.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: advanced-fraud-tools.html -> advanced-fraud-tools.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: view-eauthorization-files.html -> view-eauthorization-files.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: get-started.html -> get-started.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: econfirmations-report.html -> econfirmations-report.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: integrations-and-upgrades.html -> integrations-and-upgrades.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: oracle-hospitality-opera-plugin.html -> oracle-hospitality-opera-plugin.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: helpful-tips.html -> helpful-tips.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:48 Europe/Stockholm] [Info] Transformation: eauthorizations.html -> eauthorizations.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: econfirmations.html -> econfirmations.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: sertifi-sso.html -> sertifi-sso.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: super-admin.html -> super-admin.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: power-admin.html -> power-admin.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: admin.html -> admin.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: user.html -> user.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: auditor.html -> auditor.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: roles.html -> roles.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: release-notes.html -> release-notes.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: toggle-interface.html -> toggle-interface.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: agreements-platform.html -> agreements-platform.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: authorizations-platform.html -> authorizations-platform.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: integrations.html -> integrations.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: sertifi-api.html -> sertifi-api.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: settings.html -> settings.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: index-en.html -> index-en.html [60ef1801634a8.page.xsl]
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Generating index page.
+[14/Jul/2021 18:59:49 Europe/Stockholm] [Info] Transformation: index.manifest -> index.html [60ef1801634a8.index.xsl]
+[14/Jul/2021 18:59:50 Europe/Stockholm] [Info] # Took 11.713420 seconds to render.
